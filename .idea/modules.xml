@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java idea.iml" filepath="$PROJECT_DIR$/java idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lulishengiocdemo/lulishengiocdemo.iml" filepath="$PROJECT_DIR$/lulishengiocdemo/lulishengiocdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lulishengspringdemo/lulishengspringdemo.iml" filepath="$PROJECT_DIR$/lulishengspringdemo/lulishengspringdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lulishengutil/lulishengutil.iml" filepath="$PROJECT_DIR$/lulishengutil/lulishengutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/springboot.iml" filepath="$PROJECT_DIR$/springboot/springboot.iml" />
+    </modules>
+  </component>
+</project>
